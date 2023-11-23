@@ -29,15 +29,15 @@ Para testes:
 Basta informar o número desejado no terminal, o mesmo será avaliado se é um inteiro positivo,caso o número digitado sejá um inteiro positivo o programa retornará o resultado da soma com os respectivos números que a compõe em formato de lista. Como exemplos abaixo: 
 - Escolhendo o número 10:
   
-![image](https://github.com/eulergomees/desafio_1/assets/110045258/fb250063-4366-469f-908e-dc85ba418325)
+  ![image](https://github.com/eulergomees/desafio_1/assets/110045258/fb250063-4366-469f-908e-dc85ba418325)
 
--Escolhendo o número 11: 
+- Escolhendo o número 11: 
 
-![image](https://github.com/eulergomees/desafio_1/assets/110045258/67f6516a-f02e-474e-bd75-84457f881edc)
+  ![image](https://github.com/eulergomees/desafio_1/assets/110045258/67f6516a-f02e-474e-bd75-84457f881edc)
 
--Escolhendo o número 23:
+- Escolhendo o número 23:
 
-![image](https://github.com/eulergomees/desafio_1/assets/110045258/c86ad0ce-8abd-42ee-84e4-80e5e31c1c05)
+  ![image](https://github.com/eulergomees/desafio_1/assets/110045258/c86ad0ce-8abd-42ee-84e4-80e5e31c1c05)
 
 
 
